@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\bin\Debug\UDP ESP32 Send Receive.exe.config
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\bin\Debug\UDP ESP32 Send Receive.exe
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\bin\Debug\UDP ESP32 Send Receive.pdb
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP ESP32 Send Receive.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP_ESP32_Send_Receive.Form1.resources
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP_ESP32_Send_Receive.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP ESP32 Send Receive.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP ESP32 Send Receive.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP ESP32 Send Receive.exe
+C:\Users\LENOVO\source\repos\15 September 2022\UDP ESP32 Send Receive\UDP ESP32 Send Receive\obj\Debug\UDP ESP32 Send Receive.pdb
